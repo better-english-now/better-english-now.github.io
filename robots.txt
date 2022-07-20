@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://better-english-now.github.io/sitemap.xml
