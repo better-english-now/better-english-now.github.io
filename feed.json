@@ -13,8 +13,8 @@
             "id": "https://better-english-now.github.io/post1.html",
             "url": "https://better-english-now.github.io/post1.html",
             "title": "THE BAD NEWS",
-            "summary": "The bad news is that the good news has nothing at all to do&hellip;",
-            "content_html": "<p><strong>The bad news is that the good news has nothing at all to do</strong><br><strong><span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit;\">with a visit to the Italian Riviera.</span></strong></p>\n<p><strong>The bad news is also that nothing valuable comes to you for nothing</strong>. The price is usually in effort, or money, or both. But I'm sure you are already aware of this simple fact. Even if you don't like it and sometimes do your best to find a way to bypass it. We all do that. It doesn't get us anywhere, but we still do it.</p>\n<p><strong>Let's focus on the <span style=\"color: #e03e2d;\"><a href=\"https://better-english-now.github.io/good-news.html\" style=\"color: #e03e2d;\">good news</a></span> instead.</strong></p>",
+            "summary": "The bad news has nothing to do with a visit to the Italian Riviera. It's&hellip;",
+            "content_html": "<p><strong>The bad news has nothing to do with a</strong><strong><span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit;\"> visit to the Italian Riviera.</span></strong></p>\n<p><strong>It's that you don't get anything valuable for free</strong>. The price is usually in effort, or money, or both. I'm sure you are already aware of this simple fact, even if you don't like it, and sometimes do your best to find a way to bypass it. We all do that. It doesn't get us anywhere, but we still do it.</p>\n<p><strong>Let's focus on the <span style=\"color: #e03e2d;\"><a href=\"https://better-english-now.github.io/good-news.html\" style=\"color: #e03e2d;\">good news</a></span> instead.</strong></p>",
             "image": "https://better-english-now.github.io/media/posts/1/10_030_110132_varazze-2.jpg",
             "author": {
                 "name": "simpleAuthor"
@@ -22,7 +22,7 @@
             "tags": [
             ],
             "date_published": "2022-07-20T13:19:00+02:00",
-            "date_modified": "2022-07-20T13:19:00+02:00"
+            "date_modified": "2023-02-12T11:05:48+01:00"
         }
     ]
 }
