@@ -5,24 +5,23 @@
     "home_page_url": "https://better-english-now.github.io",
     "feed_url": "https://better-english-now.github.io/feed.json",
     "user_comment": "",
+    "icon": "https://better-english-now.github.io/media/website/logo121b.png",
     "author": {
         "name": "simpleAuthor"
     },
     "items": [
         {
-            "id": "https://better-english-now.github.io/post1.html",
-            "url": "https://better-english-now.github.io/post1.html",
-            "title": "THE BAD NEWS",
-            "summary": "The bad news has nothing to do with a visit to the Italian Riviera. The&hellip;",
-            "content_html": "<p><strong>The bad news has nothing to do with a</strong><strong><span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit;\"> visit to the Italian Riviera.</span></strong></p>\n<p><strong>The bad news is that you don't get anything valuable for free</strong>. The price is usually in effort, or money, or both. I'm sure you are already aware of this simple fact, even if you don't like it, and sometimes do your best to find a way to bypass it. We all do that. It doesn't get us anywhere, but we still do it.</p>\n<p><strong>Let's focus on the <span style=\"color: #e03e2d;\"><a href=\"https://better-english-now.github.io/good-news.html\" style=\"color: #e03e2d;\">good news</a></span> instead.</strong></p>",
-            "image": "https://better-english-now.github.io/media/posts/1/10_030_110132_varazze-2.jpg",
+            "id": "https://better-english-now.github.io/asass.html",
+            "url": "https://better-english-now.github.io/asass.html",
+            "title": "Availability",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"800\" height=\"600\" style=\"border: solid 1px #777;\" src=\"https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FBerlin&amp;showTitle=0&amp;showNav=1&amp;showTabs=0&amp;mode=WEEK&amp;src=MTIxLmVuZ2xpc2gubGVzc29ucy5ub3dAZ21haWwuY29t&amp;src=ajkxZHZ2NGw0dTJqM2RvcmVoMW9zbTJhMjRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=ZjE5Y2Q2ZjA4MzlmYWFmODM2NjUyM2M5NjQyNWY4NDM3YjlmNGRkNjdhZTc5ODFkZDc1NjkyZmM1ZGIzYTlkMkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%233F51B5&amp;color=%23039BE5&amp;color=%23F6BF26\" frameborder=\"0\" scrolling=\"no\"></iframe></div>",
             "author": {
                 "name": "simpleAuthor"
             },
             "tags": [
             ],
-            "date_published": "2022-07-20T13:19:00+02:00",
-            "date_modified": "2023-02-13T08:31:54+01:00"
+            "date_published": "2023-04-25T14:34:29+02:00",
+            "date_modified": "2023-04-25T15:00:59+02:00"
         }
     ]
 }
